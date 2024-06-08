@@ -1,0 +1,12 @@
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\bin\Debug\net8.0\TesteDemo.deps.json
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\bin\Debug\net8.0\TesteDemo.dll
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\bin\Debug\net8.0\TesteDemo.pdb
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\TesteDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\TesteDemo.AssemblyInfoInputs.cache
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\TesteDemo.AssemblyInfo.cs
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\TesteDemo.csproj.CoreCompileInputs.cache
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\TesteDemo.sourcelink.json
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\TesteDemo.dll
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\refint\TesteDemo.dll
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\TesteDemo.pdb
+c:\Users\USUARIO\Desktop\prueba15\prueba15\TesteDemo\obj\Debug\net8.0\ref\TesteDemo.dll
